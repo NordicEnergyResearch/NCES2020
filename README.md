@@ -1,6 +1,6 @@
 # ON-TIMES for NCES2020
 
-This is the repository of the open-source ON-TIMES energy system model developed by [EML](energymodellinglab.com) in the NORDIC CLEAN ENERGY SCENARIOS project conducted by [NER](NordicEnergyResearch).
+This is the repository of the open-source ON-TIMES energy system model developed by [EML](energymodellinglab.com) in the Nordic Clean Energy Scenarios project conducted by [NER](https://www.nordicenergy.org/).
 
 
 ## Short description
