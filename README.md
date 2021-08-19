@@ -1,11 +1,11 @@
 # ON-TIMES for NCES2020
 
-This is the repository of the open-source ON-TIMES energy system model developed by [EML](energymodellinglab.com) in the Nordic Clean Energy Scenarios project conducted by [NER](https://www.nordicenergy.org/).
+This is the repository of the open-source ON-TIMES energy system model developed by [EML](https://energymodellinglab.com) in the Nordic Clean Energy Scenarios project conducted by [NER](https://www.nordicenergy.org/).
 
 
 ## Short description
 
-The ON-TIMES model is based on the TIMES model generator (https://iea-etsap.org/index.php/etsap-tools/model-generators/times).
+The ON-TIMES model is based on the [TIMES model generator](https://iea-etsap.org/index.php/etsap-tools/model-generators/times).
 
 On-TIMES: Open Nordic - The Integrated Market Allocation EFOM System
 
@@ -14,7 +14,7 @@ The ON-TIMES model version v1.final was run in [VEDA2.0](https://iea-etsap.org/i
 
 ## Contact to the developers
 
-eml@energymodellinglab.com
+[EML](mailto:eml@energymodellinglab.com)
 
 
 ## License
