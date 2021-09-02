@@ -12,6 +12,11 @@ On-TIMES: Open Nordic - The Integrated Market Allocation EFOM System
 The ON-TIMES model version v1.final was run in [VEDA2.0](https://iea-etsap.org/index.php/etsap-tools/data-handling-shells/veda) using the CPLEX solver.
 
 
+## Results viewer
+
+The scenario results calculated with [ON-TIMES v1.final](https://github.com/NordicEnergyResearch/NCES2020/releases/tag/v1.final) can be viewed here:
+> [https://cleanenergyscenarios.nordicenergy.org/](https://cleanenergyscenarios.nordicenergy.org/)
+
 ## Contact to the developers
 
 [EML](mailto:eml@energymodellinglab.com)
