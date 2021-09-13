@@ -17,12 +17,12 @@ The ON-TIMES model version v1.final was run in [VEDA2.0](https://iea-etsap.org/i
 
 ## Key contributers to the model strucuture 
 
-E4SMA
-DTU Sustainability
-Danish energy agency 
-IVL
-VTT
-EML
+- E4SMA
+- DTU Sustainability
+- Danish energy agency 
+- IVL
+- VTT
+- EML
 
 ## Results viewer
 
