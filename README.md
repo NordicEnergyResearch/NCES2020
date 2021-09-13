@@ -7,7 +7,7 @@ This is the repository of the open-source ON-TIMES energy system model developed
 
 The model includes all of the five nordic countries (Denmark, Finland, Island, Norway and Sweden)
 
-The ON-TIMES model is build on the structures of the NER SHIFT project (https://www.nordicenergy.org/flagship/project-shift/) and the TIMES-DK model (https://www.esymodels.man.dtu.dk/times-dk)
+The ON-TIMES model is build on the structures of the NER SHIFT project (https://www.nordicenergy.org/flagship/project-shift/) and the TIMES-DK model (https://www.esymodels.man.dtu.dk/times-dk & https://doi.org/10.1016/j.esr.2018.11.003)
 
 The ON-TIMES model is based on the [TIMES model generator](https://iea-etsap.org/index.php/etsap-tools/model-generators/times).
 
