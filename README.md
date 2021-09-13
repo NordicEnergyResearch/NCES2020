@@ -36,4 +36,4 @@ The scenario results calculated with [ON-TIMES v1.final](https://github.com/Nord
 
 ## License
 
-Published under the GNU General Public License v3.0 or later.
+Published under the Open Data Commons Open Database License (ODbL) v1.0.
